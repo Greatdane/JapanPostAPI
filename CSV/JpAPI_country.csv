@@ -1,0 +1,236 @@
+﻿id,country_en,country_jp,zone_EMS,zone_International_Parcel_Post,zone_Letter_Small_Packet
+1,Afghanistan,アフガニスタン,,2,1
+2,Albania,アルバニア,,3,2
+3,Algeria,アルジェリア,3,4,3
+4,Angola,アンゴラ,,4,3
+5,Anguilla,アンギラ,,3,2
+6,Antigua and Barbuda,アンティグア•バーブーダ,,3,2
+7,Argentina,アルゼンチン,3,4,3
+8,Armenia,アルメニア,,3,2
+9,Aruba,アルバ,,3,2
+10,Ascension,アセンション,,4,3
+11,Australia,オーストラリア,2-1,3,2
+12,Austria,オーストリア,2-2,3,2
+13,Azerbaijan,アゼルバイジャン,2-2,3,2
+14,Bahrain,バーレーン,2-1,3,2
+15,Bangladesh,バングラデシュ,1,2,1
+16,Barbados,バルバドス,2-1,3,2
+17,Belarus,ベラルーシ,2-2,3,2
+18,Belgium,ベルギー,2-2,3,2
+19,Belize,ベリーズ,,3,2
+20,Benin,ベナン,,4,3
+21,Bermuda,バーミュダ諸島,,3,2
+22,Bhutan,ブータン,1,2,1
+23,Bolivia,ボリビア,,4,3
+24,Bosnia and Herzegovina,ﾎﾞｽﾆｱ･ﾍﾙﾂｪｺﾞﾋﾞﾅ,,3,2
+25,Botswana,ボツワナ,3,4,3
+26,Brazil,ブラジル,3,4,3
+27,Brunei,ブルネイ,1,2,1
+28,Bulgaria,ブルガリア,2-2,3,2
+29,Burkina Faso,ブルキナファソ,,4,3
+30,Burundi,ブルンジ,,4,3
+31,Cambodia,カンボジア,1,2,1
+32,Cameroon,カメルーン,,4,3
+33,Canada,カナダ,2-1,3,2
+34,Cape Verde,カーボベルデ,,4,3
+35,Cayman Islands,ケイマン諸島,,3,2
+36,Central African Republic,中央アフリカ,,4,3
+37,Chad,チャド,,4,3
+38,Chile,チリ,3,4,3
+39,China,中華人民共和国,1,1,1
+40,Christmas Island,クリスマス(島),,3,2
+41,Cocos (Keeling Islands),ココス(ｷｰﾘﾝｸﾞ)(諸島),,3,2
+42,Colombia,コロンビア,3,4,3
+43,Comoros,コモロ,,4,3
+44,"Congo, Democratic Republic of the",コンゴ民主共和国,,4,3
+45,"Congo, Republic Of The",コンゴ共和国,,4,3
+46,Cook Islands,クック,2-1,3,2
+47,Costa Rica,コスタリカ,2-1,3,2
+48,Cote d'Ivoire,コートジボワール,3,4,3
+49,Croatia,クロアチア,2-2,3,2
+50,Cuba,キューバ,2-1,3,2
+51,Curaçao,キュラソー,,3,2
+52,Cyprus,キプロス,2-1,3,2
+53,Czech Republic,チェコ,2-2,3,2
+54,Denmark,デンマーク,2-2,3,2
+55,Djibouti,ジブチ,3,4,3
+56,Dominica,ドミニカ,,3,2
+57,Dominican Republic,ドミニカ共和国,,3,2
+58,East Timor,東ティモール,,2,1
+59,Ecuador,エクアドル,3,4,3
+60,Egypt,エジプト,3,4,3
+61,El Salvador,エルサルバドル,2-1,3,2
+62,Equatorial Guinea,赤道ギニア,,4,3
+63,Eritrea,エリトリア,,4,3
+64,Estonia,エストニア,2-2,3,2
+65,Ethiopia,エチオピア,3,4,3
+66,Falkland Islands (Malvinas),ﾌｫｰｸﾗﾝﾄﾞ(ﾏﾙｳﾞｨﾅｽ)諸島,,4,3
+67,Faroe Islands,フェロー島,,3,2
+68,Fiji,フィジー,2-1,3,2
+69,Finland,フィンランド,2-2,3,2
+70,France,フランス,2-2,3,2
+71,French Guiana,仏領ギアナ,3,4,3
+72,French Polynesia,仏領ポリネシア,,3,2
+73,French Regions in Antarctica,南極におけるﾌﾗﾝｽの地域,,3,2
+74,Gabon,ガボン,3,4,3
+75,Georgia,ジョージア,,3,2
+76,Germany,ドイツ,2-2,3,2
+77,Ghana,ガーナ,3,4,3
+78,Gibraltar,ジブラルタル,,3,2
+79,Greece,ギリシャ,2-2,3,2
+80,Greenland,グリーンランド,,3,2
+81,Grenada,グレナダ,,3,2
+82,Guadeloupe,ガドループ,2-1,3,2
+83,Guam,グアム,1,1,4
+84,Guatemala,グアテマラ,,3,2
+85,Guernsey,ガーンジー,2-2,3,2
+86,Guinea,ギニア,,4,3
+87,Guinea-Bissau,ギニアビサウ,,4,3
+88,Guyana,ガイアナ,,4,3
+89,Haiti,ハイチ,,3,2
+90,Honduras,ホンジュラス,2-1,3,2
+91,Hong Kong,香港,1,1,1
+92,Hungary,ハンガリー,2-2,3,2
+93,Iceland,アイスランド,2-2,3,2
+94,India,インド,1,2,1
+95,Indonesia,インドネシア,1,2,1
+96,Iran,イラン,2-1,3,2
+97,Iraq,イラク,2-1,3,2
+98,Ireland,アイルランド,2-2,3,2
+99,Isle of Man,マン島,2-2,3,2
+100,Israel,イスラエル,2-1,3,2
+101,Italy,イタリア,2-2,3,2
+102,Jamaica,ジャマイカ,2-1,3,2
+103,Jersey,ジャージー,2-2,3,2
+104,Jordan,ヨルダン,2-1,3,2
+105,Kazakhstan,カザフスタン,,3,2
+106,Kenya,ケニア,3,4,3
+107,Kiribati,キリバス,,3,2
+108,"Korea, Republic Of",大韓民国,1,1,1
+109,Kosovo,コソボ,,3,2
+110,Kuwait,クウェート,2-1,3,2
+111,Kyrgyzstan,キルギス,,3,2
+112,Laos,ラオス,1,2,1
+113,Latvia,ラトビア,2-2,3,2
+114,Lebanon,レバノン,2-1,3,2
+115,Lesotho,レソト,,4,3
+116,Liberia,リベリア,,4,3
+117,Libya,リビア,,4,3
+118,Liechtenstein,リヒテンシュタイン,2-2,3,2
+119,Lithuania,リトアニア,2-2,3,2
+120,Luxembourg,ルクセンブルク,2-2,3,2
+121,Macao,マカオ,1,1,1
+122,Madagascar,マダガスカル,3,4,3
+123,Malawi,マラウイ,,4,3
+124,Malaysia,マレーシア,1,2,1
+125,Maldives,モルディヴ,1,2,1
+126,Mali,マリ,,4,3
+127,Malta,マルタ,2-2,3,2
+128,Marshall Islands,マーシャル,,1,1
+129,Martinique,マルチニーク,2-1,3,2
+130,Mauritania,モーリタニア,,4,3
+131,Mauritius,モーリシァス,3,4,3
+132,Mexico,メキシコ,2-1,3,2
+133,Micronesia,ミクロネシア,,1,1
+134,Moldova,モルドバ,,3,2
+135,Monaco,モナコ,2-2,3,2
+136,Mongolia,モンゴル,1,1,1
+137,Montenegro,モンテネグロ,,3,2
+138,Montserrat,モントセラト,,3,2
+139,Morocco,モロッコ,3,4,3
+140,Mozambique,モザンビーク,,4,3
+141,Myanmar (Burma),ミャンマー,1,2,1
+142,Namibia,ナミビア,,4,3
+143,Nauru,ナウル,,3,2
+144,Nepal,ネパール,1,2,1
+145,Netherlands,オランダ,2-2,3,2
+146,Netherlands Caribbean,オランダカリブ領域,,3,2
+147,New Caledonia,ニュー•カレドニア,2-1,3,2
+148,New Zealand,ニュージーランド,2-1,3,2
+149,Nicaragua,ニカラグア,,3,2
+150,Niger,ニジェール,,4,3
+151,Nigeria,ナイジェリア,3,4,3
+152,Norfolk (Island),ノーフォーク(島),,3,2
+153,North Korea,北朝鮮,,1,1
+154,North Macedonia,北マケドニア,2-2,3,2
+155,Northern Islands,北方諸島,,3,2
+156,Norway,ノルウェー,2-2,3,2
+157,Oman,オマーン,2-1,3,2
+158,Pakistan,パキスタン,1,2,1
+159,Palau,パラオ,,1,1
+160,Panama,パナマ,2-1,3,2
+161,Papua New Guinea,パプアニューギニア,2-1,3,2
+162,Paraguay,パラグアイ,3,4,3
+163,Peru,ペルー,3,4,3
+164,Philippines,フィリピン,1,1,1
+165,Pitcairn,ピトケアン,,3,2
+166,Poland,ポーランド,2-2,3,2
+167,Portugal,ポルトガル,2-2,3,2
+168,Puerto Rico,プエルト•リコ,2-1,3,4
+169,Qatar,カタール,2-1,3,2
+170,Reunion,レユニオン,3,4,3
+171,Romania,ルーマニア,2-2,3,2
+172,Russia,ロシア,2-2,3,2
+173,Rwanda,ルワンダ,3,4,3
+174,Saint Helena,セント•ヘレナ,,4,3
+175,Saint Kitts and Nevis,ｾﾝﾄｸﾘｽﾄﾌｧｰ･ﾈｰﾋﾞｽ,,3,2
+176,Saint Lucia,セントルシア,,3,2
+177,Saint Pierre and Miquelon,ｻﾝﾋﾟｴｰﾙ及びﾐｸﾛﾝ,2-1,3,2
+178,Saint Vincent and the Grenadines,セント•ビンセント,,3,2
+179,Saipan,サイパン,1,1,4
+180,Samoa,サモア(旧西ｻﾓｱ),,3,2
+181,San Marino,サンマリノ,2-2,3,2
+182,Sao Tome and Principe,サントメ•プリンシペ,,4,3
+183,Saudi Arabia,サウジアラビア,2-1,3,2
+184,Senegal,セネガル,3,4,3
+185,Serbia,セルビア,,3,2
+186,Seychelles,セーシェル,,4,3
+187,Sierra Leone,シエラレオネ,3,4,3
+188,Singapore,シンガポール,1,2,1
+189,Sint Maarten,シント•マールテン,,3,2
+190,Slovakia,スロバキア,2-2,3,2
+191,Slovenia,スロベニア,2-2,3,2
+192,Solomon Islands,ソロモン,2-1,3,2
+193,Somalia,ソマリア,,4,3
+194,South Africa,南アフリカ,3,4,3
+195,South Sudan,南スーダン,,4,3
+196,Spain,スペイン,2-2,3,2
+197,Sri Lanka,スリランカ,1,2,1
+198,Sudan,スーダン,3,4,3
+199,Suriname,スリナム,,4,3
+200,Sweden,スウェーデン,2-2,3,2
+201,Switzerland,スイス,2-2,3,2
+202,Syria,シリア,2-1,3,2
+203,Taiwan,台湾,1,1,1
+204,Tajikistan,タジキスタン,,3,2
+205,Tanzania,タンザニア,3,4,3
+206,Thailand,タイ,1,2,1
+207,The Bahamas,バハマ,,3,2
+208,The Gambia,ガンビア,,4,3
+209,Togo,トーゴ,3,4,3
+210,Tonga,トンガ,,3,2
+211,Trinidad and Tobago,トリニダード•トバゴ,2-1,3,2
+212,Tristan da Cunha,トリスタン•ダ•クーニャ,,4,3
+213,Tunisia,チュニジア,3,4,3
+214,Turkey,トルコ,2-1,3,2
+215,Turkmenistan,トルクメニスタン,,3,2
+216,Turks and Caicos Islands,タークス及びカイコス諸島,,3,2
+217,Tuvalu,ツバル,,3,2
+218,Uganda,ウガンダ,3,4,3
+219,Ukraine,ウクライナ,2-2,3,2
+220,United Arab Emirates,アラブ首長国連邦,2-1,3,2
+221,United Kingdom,英国,2-2,3,2
+222,United States of America,アメリカ合衆国,2-1,3,4
+223,Uruguay,ウルグアイ,3,4,3
+224,Uzbekistan,ウズベキスタン,,3,2
+225,Vanuatu,バヌアツ,,3,2
+226,Vatican City (Holy See),バチカン,,3,2
+227,Venezuela,ベネズエラ,3,4,3
+228,Vietnam,ベトナム,1,2,1
+229,Virgin Islands (British),ヴァージン諸島(英領),,3,2
+230,Virgin Islands (U.S.),ヴァージン諸島(米領),,3,4
+231,Wake Island,ウェーキ,,1,4
+232,Wallis and Futuna,ワリス及びフツナ,,3,2
+233,Yemen,イエメン,,3,2
+234,Zambia,ザンビア,,4,3
+235,Zimbabwe,ジンバブエ,3,4,3
