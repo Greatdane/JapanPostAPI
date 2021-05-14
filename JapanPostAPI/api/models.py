@@ -7,6 +7,9 @@ class Country(models.Model):
     zone_International_Parcel_Post = models.IntegerField()
     zone_Letter_Small_Packet = models.IntegerField()
 
+    def __str__(self):
+        return self.country_en
+
 class International_Parcel_Post(models.Model):
     weight = models.IntegerField()
     zone = models.IntegerField()
@@ -17,3 +20,10 @@ class International_Parcel_Post(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     last_modified = models.DateTimeField(auto_now=True)
 
+class EMS(models.Model):
+    weight = models.IntegerField()
+    zone = models.CharField(max_length=3)
+    price = models.IntegerField()
+
+    created_at = models.DateTimeField(auto_now_add=True)
+    last_modified = models.DateTimeField(auto_now=True)
