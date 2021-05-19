@@ -1,8 +1,9 @@
 from rest_framework import routers
 from .api import International_Parcel_Post_ViewSet, Country_Viewset
 
-router = routers.DefaultRouter()
-router.register('api/country', Country_Viewset, 'country')
-router.register('api/parcelpost', International_Parcel_Post_ViewSet, 'parcelpost')
+from django.urls import path, include
+from .views import CountryAPIView
 
-urlpatterns = router.urls
+urlpatterns = [
+    path('api/country', CountryAPIView.as_view())
+]
